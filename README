@@ -1,0 +1,17 @@
+
+Httpd - Http server
+---
+
+Heavily inspired by https://github.com/foxweb/pico
+and https://beej.us/guide/bgnet/
+
+description
+---
+small memory footprint http server, not usable in
+production enviroments.
+
+
+why?
+---
+to further improve my networking, sockets and
+general software engineering skills.
